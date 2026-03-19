@@ -16,7 +16,8 @@ The print files are under the `models` directory.  The `obj` files may need scal
     * Mirror one on the X axis if the above is mirrored
 * Blade
   * 1x `blade.obj`
-    * Thickness: 2.4mm or .095in
+    * Thickness: 2.35mm or .0925in
+    * ABS recommended as a PETG part is a bit flimsy
   * 1x `blade-cap.stl`
   * 1x `blade-cap2.stl`
 
@@ -35,10 +36,10 @@ Some hardware is needed to assemble the balisong structure.
 * Handles
   * 8x 1/2" x 1/8" Pivot Barrels
   * 16x T-6 Torx screws
-* Handles
+* Blade
   * 2x 1/2" x 1/8" Pivot Barrels
   * 4x T-6 Torx screws
-* Pivots
+* Central Pivots
   * 2x 1/2" x 3/16" Pivot Barrels
   * 4x T-9 Torx screws
   * 4x brass bushings, 1/2" OD, 3/6" ID
