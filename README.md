@@ -16,19 +16,16 @@ The print files are under the `models` directory.  The `obj` files may need scal
     * Mirror one on the X axis if the above is mirrored
 * Blade
   * 1x `blade.obj`
-    * Thickness: 2.35mm or .0925in
+    * Thickness: 2.4mm or .095in
     * ABS recommended as a PETG part is a bit flimsy
   * 1x `blade-cap.stl`
   * 1x `blade-cap2.stl`
 
-PETG or ABS and high infill and more solid patterns are recommended for strength to withstand drops.  Voids should face up on the prints with hollows to avoid the need for supports in hard to reach places, tree supports for the handle interior piece is recommended.
+PETG or ABS with 100% infill and gyroid fill pattern are recommended for strength to withstand drops.  Voids should face up on the prints with hollows to avoid the need for supports in hard to reach places, tree supports for the handle interior piece is recommended. Additional scaling may be needed to account for printer differences or shrinkage to different filaments.
 
-A knife to cut around the buttons will be needed, along with the standard support removal, filing, and drilling to finish holes.
+A knife to cut around the buttons will be needed, along with the standard support removal, filing, and drilling to finish holes.  This will be particularly important around the pivots as they will be tight without proper clearance in the holes and part thickness.
 
 # Additional Parts
-
-## Main Structure
-The STLs for the laser cut structures (black ABS plastic) are missing.
 
 ## Balisong Parts
 Some hardware is needed to assemble the balisong structure.  
@@ -60,7 +57,6 @@ The blade caps fit on either side of the blade section, secure with the small pi
 
 ## Pivot
 With bushings between the blade and handle sections, use the large barrels to attach the handles to the blade section.  Make sure the open part of the handle faces the blade so it can fully close.
-
 
 # Notes
 * Sub-section weights with small pivots, LEDs, and battery, no large pivot.  Including this information primarily for balancing.  It seems like the original is tuned so the blade section is 1/2 the weight of a handle section
